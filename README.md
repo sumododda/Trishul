@@ -1,7 +1,7 @@
 # Trishul 🔱 
 
 ☠️Trishul is an ultimate collection framework to do recon
-#### Automated by [[Sumanth Dodda](https://linkedin.com/in/sumanth-dodda)] and [[Nikhil Pinnamaneni](https://www.linkedin.com/in/nikhilpinnamaneni)]
+#### Automated by [[Sumanth Dodda](https://linkedin.com/in/sumanth-dodda)]
 
 ## Installation
 
